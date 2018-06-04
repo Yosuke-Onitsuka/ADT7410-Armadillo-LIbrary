@@ -1,1 +1,1 @@
-armadilo-ADT7410-library
+Armadilo-ADT7410-Library
