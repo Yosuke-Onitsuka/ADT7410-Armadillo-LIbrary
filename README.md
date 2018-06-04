@@ -6,6 +6,8 @@ This is an Armadillo library for using ADT7410 temperature sensor.
 ## Usage
 For using this library, prease inheritance it and QObject library like Qsennsser.cpp and QSensser.h.
 
+## Commands
+
 #### `bool begin(void)`
 Starts initialization settings.  
 Returns `true`, if initialization settings with any ploblem.
