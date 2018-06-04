@@ -1,5 +1,5 @@
 # ADT7410-Armadillo-Library
----
+
 ## Overview
 This is an Armadillo library for using ADT7410 temperature sensor.  
 
